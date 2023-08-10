@@ -29,29 +29,5 @@ public class Main {
         System.out.println("Данные ФИО сотрудника - " + replacedFullName3);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
